@@ -1,0 +1,21 @@
+﻿Build started 10/17/2015 9:25:16 AM.
+     1>Project "C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboxWithLB\ComboxWithLB\ComboxWithLB.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ComboxWithLB.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ComboBitmap.cpp ComboxWithLBDlg.cpp
+         ComboxWithLBDlg.cpp
+         ComboBitmap.cpp
+     1>c:\users\jimmy\documents\visual studio 2015\projects\mfc2015subclassingexamples\comboxwithlb\comboxwithlb\combobitmap.cpp(93): warning C4101: 'Info': unreferenced local variable
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboxWithLB\Debug\ComboxWithLB.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboxWithLB\Debug\ComboxWithLB.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboxWithLB\Debug\ComboxWithLB.lib" /MACHINE:X86 Debug\ComboxWithLB.res
+         Debug\ComboBitmap.obj
+         Debug\ComboxWithLB.obj
+         Debug\ComboxWithLBDlg.obj
+         Debug\MyListBox.obj
+         Debug\stdafx.obj
+         ComboxWithLB.vcxproj -> C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboxWithLB\Debug\ComboxWithLB.exe
+     1>Done Building Project "C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboxWithLB\ComboxWithLB\ComboxWithLB.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27

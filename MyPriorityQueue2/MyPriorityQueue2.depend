@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1534712841 source:d:\projects\mypriorityqueue2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"pq.h"
+
+1534712376 source:d:\projects\mypriorityqueue2\pq.cpp
+	<stdio.h>
+	<stdlib.h>
+	"pq.h"
+
+1534611248 d:\projects\mypriorityqueue2\pq.h
+

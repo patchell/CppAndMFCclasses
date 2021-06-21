@@ -1,0 +1,19 @@
+﻿Build started 10/17/2015 7:56:43 PM.
+     1>Project "C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxwithLBandCheckBox\ComboBoxwithLBandCheckBox\ComboBoxwithLBandCheckBox.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ComboBoxwithLBandCheckBox.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ComboBoxwithLBandCheckBoxDlg.cpp
+         ComboBoxwithLBandCheckBoxDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxwithLBandCheckBox\Debug\ComboBoxwithLBandCheckBox.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxwithLBandCheckBox\Debug\ComboBoxwithLBandCheckBox.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxwithLBandCheckBox\Debug\ComboBoxwithLBandCheckBox.lib" /MACHINE:X86 Debug\ComboBoxwithLBandCheckBox.res
+         Debug\ComboBitmap.obj
+         Debug\ComboBoxItem.obj
+         Debug\ComboBoxwithLBandCheckBox.obj
+         Debug\ComboBoxwithLBandCheckBoxDlg.obj
+         Debug\MyListBox.obj
+         Debug\stdafx.obj
+         ComboBoxwithLBandCheckBox.vcxproj -> C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxwithLBandCheckBox\Debug\ComboBoxwithLBandCheckBox.exe
+     1>Done Building Project "C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxwithLBandCheckBox\ComboBoxwithLBandCheckBox\ComboBoxwithLBandCheckBox.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.36

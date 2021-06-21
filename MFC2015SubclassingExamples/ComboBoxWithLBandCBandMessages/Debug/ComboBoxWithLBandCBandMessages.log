@@ -1,0 +1,19 @@
+﻿Build started 10/19/2015 10:53:11 AM.
+     1>Project "C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxWithLBandCBandMessages\ComboBoxWithLBandCBandMessages.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt comboboxwithlbandcbandmessages\MyListBox.cpp
+         MyListBox.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxWithLBandCBandMessages\Debug\ComboBoxWithLBandCBandMessages.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxWithLBandCBandMessages\Debug\ComboBoxWithLBandCBandMessages.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxWithLBandCBandMessages\Debug\ComboBoxWithLBandCBandMessages.lib" /MACHINE:X86 Debug\ComboBoxwithLBandCheckBox.res
+         Debug\ComboBitmap.obj
+         Debug\ComboBoxItem.obj
+         Debug\ComboBoxwithLBandCheckBox.obj
+         Debug\ComboBoxwithLBandCheckBoxDlg.obj
+         Debug\MyListBox.obj
+         Debug\stdafx.obj
+         ComboBoxWithLBandCBandMessages.vcxproj -> C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxWithLBandCBandMessages\Debug\ComboBoxWithLBandCBandMessages.exe
+     1>Done Building Project "C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\MFC2015SubclassingExamples\ComboBoxWithLBandCBandMessages\ComboBoxWithLBandCBandMessages.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.08
