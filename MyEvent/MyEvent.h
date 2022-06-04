@@ -6,7 +6,7 @@
 // Basic Event class. The use of the prefix CDM was a semi-random selection.
 #pragma once
 
-#define WAIT_MY_HANDLE_ERROR	(-2)
+constexpr auto WAIT_MY_HANDLE_ERROR = -2;
 
 class CMyEvent  
 {

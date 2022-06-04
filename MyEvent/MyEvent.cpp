@@ -31,13 +31,13 @@ BOOL CMyEvent::Create(const CString& name)
 //	TRUE if succesfull
 //	FALSE on fail
 //--------------------------------------
-bool CMyEvent::Post()
+BOOL CMyEvent::Post()
 {
 	if (m_hHandle) {
 		if (::SetEvent(m_hHandle))
-			return true;
+			return TRUE;
 	}
-	return false;
+	return FALSE;
 }
 
 //-----------------------------------
